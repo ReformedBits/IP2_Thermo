@@ -6,8 +6,8 @@ project:
   # description:
   # keywords: []
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Raphaël van Egmond
+    - name: Bart de Haaij
 
   github: https://github.com/ReformedBits/IP2_Thermo
   plugins:
